@@ -222,8 +222,10 @@ Marker data are not merely experimental records; they are model inputs. Poor mar
 - [Troubleshooting labelling skeleton templates in Vicon Nexus](https://help.vicon.com/space/Nexus215/11378339/Troubleshooting+labeling+skeleton+templates)
 - [Troubleshooting auto-labelling with custom Vicon Skeleton Templates](https://www.youtube.com/watch?v=VAaBug0hWDQ)
 
-#
+---
 
 **[Next page (Markerset Guide)]({% link markerset_guide.md %})**
 
 **[Home]({% link index.md %})**
+
+{: .no_toc }
