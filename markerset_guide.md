@@ -31,6 +31,7 @@ Recommended workflow for selecting a marker set:
 ### Full body and lower limb
 
 **Example marker set:** the marker set below consist of placing the markers on both left and right limbs. Foot markers may vary depending on the need of the study.
+
 | Segment | Description                    | Marker count | Marker name |
 |---------|--------------------------------|--------------|-------------|
 | Pelvis  | Anterior superior iliac spine  | 2            | ASIS        |
@@ -80,6 +81,7 @@ Recommended workflow for selecting a marker set:
 Upper-body marker sets differ mainly in how they approximate scapular motion, humeral tracking, forearm rotation, wrist motion, and hand-object interaction. They are not simply reduced full-body marker sets.
 
 **Example marker set:** this marker set is a combination from a shoulder model study ([Bolsterlee et al., 2014](https://doi.org/10.1007/s11517-013-1065-2)) and whole arm study which included hand motion ([Di Domenico et al., 2025](https://doi.org/10.1038/s41597-025-04552-5)).
+
 | Segment | Description | Marker count | Marker name |
 |---------|-------------|--------------|-------------|
 | Thorax | 7th Cervical vertebra | 1 | C7 |
@@ -134,7 +136,6 @@ A marker-set protocol should report:
 - **Take photos of experiemntal setup when possible:** some markers (e.g., marker clusters or markers placed on shoes) are not placed on anatomical landmarks that can be consistenetly reproduced, having extensive documentation (e.g., photos and notes) on there placement is crucial when moving to the musculoskeletal modelling stage.
 
 
-#
 **[Previous page (Markers)]({% link markers.md %}) | [Next page (EMG)](emg.md)**
 
 **[Home]({% link index.md %})**
