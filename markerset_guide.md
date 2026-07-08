@@ -139,6 +139,4 @@ A marker-set protocol should report:
 
 **[Previous page (Markers)]({% link markers.md %})**
 
-**[Next page (EMG)](emg.md)**
-
-**[Home]({% link index.md %})**
+**[Next page (EMG)](% link emg.md %)**
