@@ -3,6 +3,7 @@ title: Markers
 parent: Data collection
 nav_order: 1
 layout: default
+has_toc: false
 ---
 
 # Markers
@@ -225,7 +226,3 @@ Marker data are not merely experimental records; they are model inputs. Poor mar
 ---
 
 **[Next page (Markerset Guide)]({% link markerset_guide.md %})**
-
-**[Home]({% link index.md %})**
-
-{: .no_toc }
