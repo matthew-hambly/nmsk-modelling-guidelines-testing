@@ -135,7 +135,10 @@ A marker-set protocol should report:
 - **Test with the actual task:** the pilot testing should check marker visibility and stability during full range of motion, within the entire capture volume and with potential obsrtuctions (e.g., supports, braces, handles, tables, cables, etc.)
 - **Take photos of experiemntal setup when possible:** some markers (e.g., marker clusters or markers placed on shoes) are not placed on anatomical landmarks that can be consistenetly reproduced, having extensive documentation (e.g., photos and notes) on there placement is crucial when moving to the musculoskeletal modelling stage.
 
+---
 
-**[Previous page (Markers)]({% link markers.md %})   [Next page (EMG)](emg.md)**
+**[Previous page (Markers)]({% link markers.md %})**
+
+**[Next page (EMG)](emg.md)**
 
 **[Home]({% link index.md %})**
