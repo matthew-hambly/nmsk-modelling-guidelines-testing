@@ -2,6 +2,7 @@
 title: Markers
 parent: 1. Data collection
 nav_order: 1
+layout: default
 ---
 
 # Markers
