@@ -1,8 +1,8 @@
 ---
-title: Configuration
+title: Data collection
 layout: default
 nav_order: 2
 ---
 
-# Configuration
+# Data Collection and Synchronisation
 {: .no_toc }
