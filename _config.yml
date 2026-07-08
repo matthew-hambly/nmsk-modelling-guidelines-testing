@@ -1,8 +1,6 @@
 title: PRECISE NMSK Modelling Guidelines
+logo: Cropped_Square_white_background.png
 description: A general overview and guidelines for the data processing and NMSK modelling pipeline commonly used within PRECISE
 theme: just-the-docs
 
 url: https://matthew-hambly.github.io/nmsk-modelling-guidelines-testing
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
