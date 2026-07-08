@@ -1,5 +1,5 @@
 ---
-title: 1. Data collection
+title: Configuration
 layout: default
 nav_order: 2
 ---
