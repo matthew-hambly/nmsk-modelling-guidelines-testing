@@ -4,12 +4,16 @@ layout: home
 nav_order: 1
 ---
 
+<p align=center>
+    <img src="Logo 2.png" alt="PRECISE Logo" width="75%">
+</p>
+
 # Data Processing and NMSK Modelling Guidelines
 
 Details for the below topics can be found by clicking on the link or in the corresponding directory. It is strongly suggested to follow a [standard folder structure](./fundamentals/suggested_folder_structure.md).
 
 ## [1. Data collection and synchronisation]({% link data_collection.md %})
-* [Markers]({% link markers.html %})
+* [Markers]({% link markers.md %})
     * [Markerset Guide]({% link markerset_guide.md %})
 * [EMG]({% link emg.md %})
     * [HD-EMG](1_data_collection/hd_emg.md)
