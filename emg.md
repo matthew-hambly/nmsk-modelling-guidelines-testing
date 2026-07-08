@@ -87,4 +87,4 @@ Guidelines on the subsequent EMG processing steps can be found [here](../2_prepr
 
 **[Previous page (Markerset Guide)]({% link markerset_guide.md %})**
 
-**[Next page (HD-EMG)]({% link hd_emg.md %})**
+**[Next page (HD-EMG)](hd_emg.md)**
