@@ -8,7 +8,7 @@ nav_order: 1
 
 Details for the below topics can be found by clicking on the link or in the corresponding directory. It is strongly suggested to follow a [standard folder structure](./fundamentals/suggested_folder_structure.md).
 
-## [1. Data collection and synchronisation](1_data_collection.md)
+## [1. Data collection and synchronisation](1_data_collection.html)
 * [Markers](1_data_collection/markers.md)
     * [Markerset Guide](1_data_collection/markerset_guide.md)
 * [EMG](1_data_collection/emg.md)
