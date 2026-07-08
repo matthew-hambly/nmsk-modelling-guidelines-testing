@@ -1,6 +1,6 @@
 ---
 title: Markers
-parent: 1. Data collection
+parent: Data collection
 nav_order: 1
 layout: default
 ---
