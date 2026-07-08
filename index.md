@@ -23,7 +23,7 @@ Details for the below topics can be found by clicking on the link or in the corr
 * [Sampling frequencies](1_data_collection/sampling_frequencies.md)
 * [Synchronisation](1_data_collection/synchronisation.md)
 
-## [{% link preprocessing.md %})
+## [2. Preprocessing]({% link preprocessing.md %})
 * [Marker trajectory processing and gap filling]({% link marker_trajectory_processing_and_gap_filling.md %})
 * [Filtering choices and rationales for kinematics and kinetics](2_preprocessing/filtering_choices_and_rationales_for_kinematics_and_kinetics.md)
 * [Coordinate systems and conventions](2_preprocessing/coordinate_systems_and_conventions.md)
