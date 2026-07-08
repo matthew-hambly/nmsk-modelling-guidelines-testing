@@ -4,3 +4,8 @@ title: NMSK Modelling Guidelines
 description: A general overview and guidelines for the data processing and NMSK modelling pipeline commonly used within PRECISE
 
 url: https://matthew-hambly.github.io/nmsk-modelling-guidelines-testing
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
