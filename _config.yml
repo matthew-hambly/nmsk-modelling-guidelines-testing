@@ -5,6 +5,9 @@ description: A general overview and guidelines for the data processing and NMSK 
 
 url: https://matthew-hambly.github.io/nmsk-modelling-guidelines-testing
 
+back_to_top: true
+back_to_top_text: "Back to top"
+
 mermaid:
   # Version of mermaid library
   # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
