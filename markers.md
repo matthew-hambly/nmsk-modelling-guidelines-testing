@@ -54,7 +54,7 @@ CEINMS calibration can compensate for some parameter uncertainty, but it cannot 
 
 Markers must be compatible with the anatomical coordinate systems and degrees of freedom of the musculoskeletal model. Their role is not merely to provide visible points, but to provide sufficient information to reconstruct anatomical segment motion in a form the model can interpret.
 
-Detailed guidance on marker-set selection is provided in [Selecting a markerset](markerset_guide.md).
+Detailed guidance on marker-set selection is provided in [Selecting a markerset]({% link markerset_guide.md %}).
 
 A marker set should provide:
 
@@ -223,6 +223,7 @@ Marker data are not merely experimental records; they are model inputs. Poor mar
 - [Troubleshooting auto-labelling with custom Vicon Skeleton Templates](https://www.youtube.com/watch?v=VAaBug0hWDQ)
 
 #
-**[Next page (Markerset Guide)](markerset_guide.md)**
 
-**[Home](../README.md)**
+**[Next page (Markerset Guide)]({% link markerset_guide.md %})**
+
+**[Home]({% link index.md %})**
