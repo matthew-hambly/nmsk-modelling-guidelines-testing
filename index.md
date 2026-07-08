@@ -9,9 +9,9 @@ nav_order: 1
 Details for the below topics can be found by clicking on the link or in the corresponding directory. It is strongly suggested to follow a [standard folder structure](./fundamentals/suggested_folder_structure.md).
 
 ## [1. Data collection and synchronisation]({% link data_collection.md %})
-* [Markers](markers.html)
-    * [Markerset Guide](1_data_collection/markerset_guide.md)
-* [EMG](1_data_collection/emg.md)
+* [Markers]({% link markers.html %})
+    * [Markerset Guide]({% link markerset_guide.md %})
+* [EMG]({% link emg.md %})
     * [HD-EMG](1_data_collection/hd_emg.md)
 * [Force plates](1_data_collection/force_plates.md)
 * [IMU](1_data_collection/imu.md)
@@ -19,8 +19,8 @@ Details for the below topics can be found by clicking on the link or in the corr
 * [Sampling frequencies](1_data_collection/sampling_frequencies.md)
 * [Synchronisation](1_data_collection/synchronisation.md)
 
-## [2. Preprocessing](2_preprocessing/README.md)
-* [Marker trajectory processing and gap filling](2_preprocessing/marker_trajectory_processing_and_gap_filling.md)
+## [{% link preprocessing/.md %})
+* [Marker trajectory processing and gap filling]({% link marker_trajectory_processing_and_gap_filling.md %})
 * [Filtering choices and rationales for kinematics and kinetics](2_preprocessing/filtering_choices_and_rationales_for_kinematics_and_kinetics.md)
 * [Coordinate systems and conventions](2_preprocessing/coordinate_systems_and_conventions.md)
 * [Force-plate processing](2_preprocessing/force_plate_processing.md)
@@ -113,8 +113,5 @@ flowchart LR
     emg_processing --> model_cal
     model_cal --> nmsk_exec
 ```
-
-
-
 
 ----
