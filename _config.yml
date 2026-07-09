@@ -1,6 +1,4 @@
-remote_theme: just-the-docs/just-the-docs
-plugins:
-  - jekyll-remote-theme
+theme: just-the-docs
 title: NMSK Modelling Guidelines
 description: A general overview and guidelines for the data processing and NMSK modelling pipeline commonly used within PRECISE
 
