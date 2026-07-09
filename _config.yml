@@ -10,6 +10,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 heading_anchors: false
 
+footer_content: "Warning: this is still a work in progress."
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
