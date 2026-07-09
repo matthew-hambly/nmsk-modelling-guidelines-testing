@@ -8,6 +8,7 @@ color_scheme: custom_theme
 
 back_to_top: true
 back_to_top_text: "Back to top"
+heading_anchors: false
 
 mermaid:
   # Version of mermaid library
